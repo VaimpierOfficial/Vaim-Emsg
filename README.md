@@ -25,10 +25,11 @@
 
 <br>
 
-### Custom Message
+### Custom Message x Important
  
 > `nano message.conf`
 - Type there with your custom message and press ctrl + x to save it then start attack ...
+- First Make Fake id and Enable lesssecureapps then install
 <br>
 
 ### Installation & Step's in Termux or else
