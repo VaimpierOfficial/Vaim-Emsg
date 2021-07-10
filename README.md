@@ -64,7 +64,7 @@
 
 ### Opening & Step's
  
-> `bash Vaim-Emsg.py`
+> `python3 Vaim-Emsg.py`
 
 <br>
 
