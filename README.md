@@ -3,8 +3,8 @@
 <img title="Vaim-Emsg" src="https://img.shields.io/badge/version-1.0-red"><br>
 
 
-### What is Vaim-RamSom ?
-> This is advance Mail bomber.
+### What is Vaim-Emsg ?
+> This is advance Mail bomber with spoofing.
 > Many times you just want to annoy or play a prank on your friends.
 > If you find yourself in that situation then this Tool is the perfect tool for you!
 > this tool made by @vaimpier_ritik
@@ -16,7 +16,6 @@
 - The author is not responsible for any issues or damage caused by this program and don't use illegel purpose
 
 <br>
-
 
 ### Custom Message
  
