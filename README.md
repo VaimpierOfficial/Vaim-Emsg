@@ -3,25 +3,17 @@
 <img title="Vaim-Emsg" src="https://img.shields.io/badge/version-1.0-red"><br>
 
 
-- What is Vaim-RamSom ?
+### What is Vaim-RamSom ?
 > This is advance Mail bomber.
 > Many times you just want to annoy or play a prank on your friends.
 > If you find yourself in that situation then this Tool is the perfect tool for you!
 > this tool made by @vaimpier_ritik
 
-
-
-* `Mail bombing WITH Spoofing.`
-
-* `Send unlimited or limit also.`
-
-* `Supports all type of mails.`
-
-* `Parrot Os and all Debian based supported.`
-
-* `You can also use in termux.`
-
-* `The author is not responsible for any issues or damage caused by this program and don't use illegel purpose.  `
+- Mail bombing WITH Spoofing
+- Send unlimited or limit also
+- Parrot Os and all Debian based supported
+- Termux support also
+- The author is not responsible for any issues or damage caused by this program and don't use illegel purpose
 
 <br>
 
