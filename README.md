@@ -1,7 +1,6 @@
 # Vaim-Emsg
 <img src="https://img.shields.io/badge/Vaim--Emsg-THE%20MAIL%20BOMBER-blue"><br>
 <img title="Vaim-Emsg" src="https://img.shields.io/badge/version-1.0-red"><br>
-<img src="src/Vaim-RamSom.png"><br>
 
 
 - What is Vaim-RamSom ?
@@ -24,6 +23,13 @@
 
 * `The author is not responsible for any issues or damage caused by this program and don't use illegel purpose.  `
 
+<br>
+
+
+### Custom Message
+ 
+> `nano message.conf`
+- Type there with your custom message and press ctrl + x to save it then start attack ...
 <br>
 
 ### Installation & Step's in Kali Linux or else
@@ -69,5 +75,5 @@ Youtube [@Vaimpier_Ritik](https://www.youtube.com/channel/UCDWhaLh7OIKzH4Bk952l7
 
 
 ### For Video Tutorial
-- <a href="https://www.youtube.com/channel/UCDWhaLh7OIKzH4Bk952l7Iw"> CLICK HERE AND SEE TUTORIAL ON LAPTOP  ---  Parrot Os </a>
-- <a href="https://www.youtube.com/channel/UCDWhaLh7OIKzH4Bk952l7Iw"> CLICK HERE AND SEE TUTORIAL FOR ANDROID --  Termux</a>
+- <a href="https://www.youtube.com/watch?v=sBZEcIDVYY8"> CLICK HERE AND SEE TUTORIAL ON LAPTOP</a>
+- <a href="https://www.youtube.com/watch?v=uZZlT9IeeFM"> CLICK HERE AND SEE TUTORIAL FOR ANDROID</a>
