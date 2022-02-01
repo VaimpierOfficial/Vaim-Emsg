@@ -97,7 +97,7 @@ port = port.split()
 msg = MIMEMultipart()
 msg["To"] = tar_email
 msg["From"] = str(spoof) +"<Any@gmail.com>"
-msg.attach(MIMEText(Es, 'plain'))
+msg.attach(MIMEText(Es, 'html'))
 #----------------------
 
 
